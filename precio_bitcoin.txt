@@ -1,0 +1,3 @@
+Precio de Bitcoin en USD: 70,548.266
+Precio de Bitcoin en GBP: 56,265.064
+Precio de Bitcoin en EUR: 65,668.372
